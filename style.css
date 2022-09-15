@@ -19,7 +19,6 @@ body {
 body * {
     font-family: 'inter', sans-serif;
     line-height: 160%;
-
 }
 
 header {
@@ -47,7 +46,6 @@ header div {
 
 header div:hover {
     transform: scale(1.1);
-
 }
 
 header div img {
@@ -78,7 +76,6 @@ main section:nth-child(2) {
 }
 
 main section:nth-child(3) {
-    /* animation: fromBottom .8s */
     animation-delay: .8s;
 }
 
@@ -94,8 +91,6 @@ section div {
     padding: 32px;
     padding-top: 24px;
     border-radius: 8px;
-
-    /* border-top:  4px solid red; */
 }
 
 section h2 {
@@ -116,8 +111,6 @@ section ul {
 
 section ul li {
     transition: tranform .3s;
-
-
 }
 
 section ul li:hover {
@@ -127,7 +120,6 @@ section ul li:hover {
 .game-list img {
     border-radius: 8px;
     width: 90px;
-
 }
 
 .channel-list img {
@@ -160,6 +152,5 @@ section ul li:hover {
     to {
         opacity: 1;
         transform: translateY(0);
-
     }
 }
