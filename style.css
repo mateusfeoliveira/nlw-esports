@@ -57,13 +57,14 @@ main {
     max-width: 580px;
     width: 90%;
     margin: 32px auto;
-    /* flex-direction: column; */
     display: grid;
     gap: 24px;
 }
 
 main section {
+
     /* Animation */
+
     animation: fromBottom .7s backwards;
 }
 
