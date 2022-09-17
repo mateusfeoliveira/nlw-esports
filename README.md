@@ -1,10 +1,10 @@
 # Nlw eSports
 
-! [preView](./github/preview.png)
+![preView](./github/preview.png)
 
 Projeto realizado no evento Next Level Week da Rocketseat.
 
-[clique aqui para acessar](https://mateusfeoliveira.github.io/nlw-esports/)
+[ 🔗 Clique aqui para acessar](https://mateusfeoliveira.github.io/nlw-esports/)
 
 ## Tecnologias
 
